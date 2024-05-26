@@ -22,7 +22,7 @@ def get_google_geolocation(api_key):
         return None
 
 # Google API key
-api_key = 'AIzaSyCOI3W8za6D2pvaahk25FUwP9shTemAbIs'
+api_key = 'key'
 
 while True:
     user_ip = input("Please enter a public IP Address: ")
